@@ -13,7 +13,7 @@ Download to desired folder, and extract contents into `/minetestdir/clientmods/`
 #### GIT
 ```
 cd /path/to/minetest/clientmods/
-git clone https://github.com/GreenXenith/sscsm_ssm.git
+git clone https://github.com/GreenXenith/sscsm_csm.git
 ```
 
 ### Enable
